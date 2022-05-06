@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: InfoTech Official WEbsite
+title: InfoTech
 
 # Your name to show in the footer
 author: Some Person
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://t.me/infotechIT"
 
 # --- Logo --- #
 
@@ -40,31 +40,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "infotechtele@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: infotechIT
-  twitter: infotechtele
-  youtube: c/infotech
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
-
+  github: https://github.com/infotechIT
+  twitter: https://twitter.com/infotechtele
+  youtube: https://www.youtube.com/channel/UCev6J4bZGwXevgmcvbmtGmw
+#  linkedin: infotech-it
+#  instagram: kxllerxbad
+#  spotify: Alonboy
+#  
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
@@ -74,13 +56,12 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-
+  github: true
+  youtube: true
+  telegram: true
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "InfoTech.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
