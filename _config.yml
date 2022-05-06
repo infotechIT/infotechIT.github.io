@@ -59,6 +59,7 @@ share-links-active:
   github: true
   youtube: true
   telegram: true
+  email: true
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "InfoTech.com"
